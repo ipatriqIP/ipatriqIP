@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning, Deep Learning and Bidg Data
 - 🌱 I’m currently learning data engineering course
 - 💞️ I’m looking to collaborate on Articifial Intelligence and Machine Learning
-- 📫 How to reach me patriqyoo@gmail.com
+- 📫 How to reach me patrick.ilunga@unikin.ac.cd
 
 <!---
 ipatriqIP/ipatriqIP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
